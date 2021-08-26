@@ -45,7 +45,7 @@ public class MultipledatasourcesApplicationTests {
     public void initializeDataObjects(){
 
         member = new Member();
-        member.setMemberId("M001");
+        member.setMemberId("M0001");
         member.setName("Maureen Mpofu");
 
         cardHolder = new CardHolder();
